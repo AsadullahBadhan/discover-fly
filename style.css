@@ -66,13 +66,15 @@ a.active {
 .inp-width {
 	min-width: 300px;
 }
-.plus-minus-btn {
+.plus-minus-btn button{
 	color: #3352f2;
 	font-size: 30px;
 	padding: 2px;
-	margin-top: 10px;
+	margin: 10px 0 0 10px;
 	word-spacing: 20px;
 	cursor: pointer;
+	border: none;
+	background: none;
 }
 .booking-form .calculations {
 	margin: 10px 0;
