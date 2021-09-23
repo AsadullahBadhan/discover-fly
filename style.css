@@ -10,8 +10,8 @@ body {
 	background: url("images/bg.png");
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-attachment: scroll;
 	background-size: cover;
+	height: 100vh;
 }
 
 nav {
@@ -130,8 +130,4 @@ a.active {
 	display: none;
 	margin: 10px 30px;
 	color: white;
-}
-
-#check-out h4:last-child {
-	color: black;
 }
