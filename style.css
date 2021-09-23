@@ -66,7 +66,7 @@ a.active {
 .inp-width {
 	min-width: 300px;
 }
-.plus-minus-btn button{
+.plus-minus-btn button {
 	color: #3352f2;
 	font-size: 30px;
 	padding: 2px;
@@ -124,4 +124,14 @@ a.active {
 .amount {
 	display: flex;
 	justify-content: space-between;
+}
+
+#check-out {
+	display: none;
+	margin: 10px 30px;
+	color: white;
+}
+
+#check-out h4:last-child {
+	color: black;
 }
